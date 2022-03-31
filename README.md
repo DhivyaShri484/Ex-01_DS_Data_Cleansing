@@ -42,5 +42,5 @@ df.to_csv('Data_set.csv')
 <img width="617" alt="2022-03-31 (3)" src="https://user-images.githubusercontent.com/94505585/160967979-d6ea4159-502c-40d9-9609-ab6ecd13110e.png">
 
 # RESULT:
-Thus the given data is cleanced and the output is obtained.
+Thus the given data is cleansed and the output is obtained.
 
